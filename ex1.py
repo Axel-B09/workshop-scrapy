@@ -5,8 +5,6 @@
 ## ex1
 ##
 
-import scrapy
-
 nblist = 1;
 check = 0;
 
